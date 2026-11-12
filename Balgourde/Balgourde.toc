@@ -4,7 +4,7 @@
 ## Notes-frFR: Monstres de la zone, loots, taux de drop, dépeçage, désenchantement et meilleur marché pour vendre vos objets.
 ## Author: Ewingax
 ## Version: @project-version@
-# X-Curse-Project-ID: REMPLACER_PAR_L_ID_DU_PROJET
+## X-Curse-Project-ID:1800231
 ## IconTexture: Interface\AddOns\Balgourde\Media\Icon
 ## SavedVariables: BalgourdeDB, BalgourgeDB
 ## AddonCompartmentFunc: Balgourde_OnCompartmentClick
