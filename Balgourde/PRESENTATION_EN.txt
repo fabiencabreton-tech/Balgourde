@@ -1,0 +1,16 @@
+BALGOURDE – the addon that tells you what to farm and where to sell (WoW Forever)
+
+• When you enter a zone, a window lists the monsters, what they drop and the drop rate of every item.
+• Mouse over or target a monster: its loot rates, its value per kill, and for beasts the required skinning
+  skill and the leather you can get.
+• Sort by "profitability" to see which monster of the zone earns the most.
+• Scan the Auction House: for every item in your bags, the addon compares the vendor, your faction AH, the
+  neutral AH and disenchanting, and tells you where you earn the most (cut and deposit included).
+• "AH prices" tab: current price, 7 and 14-day averages, lows/highs, trend and history of every item.
+
+How it learns: the game does not give drop rates, so Balgourde computes them while you play (kills, loot,
+skinning, disenchanting). The more guild or group members have it, the faster the rates become reliable:
+data is shared automatically. A grey rate (e.g. 2/7) means not enough kills yet.
+
+Install: put the "Balgourde" folder into World of Warcraft\_forever_\Interface\AddOns, then start the game.
+Use: the ball + gourd button around the minimap, or /balg. Something wrong? Type /balg test and send a screenshot.

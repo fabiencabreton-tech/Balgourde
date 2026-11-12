@@ -1,0 +1,13 @@
+BALGOURDE – l'addon qui te dit quoi farmer et où vendre (WoW Forever)
+
+• En entrant dans une zone, une fenêtre liste les monstres, ce qu'ils lâchent et le taux de drop de chaque objet.
+• Cible un monstre et clique sur « Loots » pour voir sa fiche : ses drops, son butin de vol à la tire et ce qu'il rapporte en moyenne par kill.
+• Le tri « rentabilité » classe les monstres de la zone du plus au moins rentable.
+• Scanne l'Hôtel des ventes : pour chaque objet de tes sacs, l'addon compare marchand, HV de ta faction et HV neutre, et t'indique où vendre le plus cher (commission déduite).
+
+Comment il apprend : le jeu ne donne pas les taux de drop, donc Balgourde les calcule pendant que tu joues (kills et loots).
+Plus on est nombreux à l'avoir dans la guilde ou le groupe, plus les taux deviennent fiables vite : les données sont partagées automatiquement.
+Un taux en gris (ex. 2/7) = pas encore assez de kills pour être fiable.
+
+Installation : mettre le dossier « Balgourde » dans World of Warcraft\_forever_\Interface\AddOns, puis lancer le jeu.
+Utilisation : bouton balle + gourde autour de la minimap, ou /balg.

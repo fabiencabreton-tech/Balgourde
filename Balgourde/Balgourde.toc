@@ -1,0 +1,27 @@
+## Interface: 16001
+## Title: Balgourde
+## Notes: Zone monsters, loot, drop rates, skinning, disenchanting and the best market to sell your items.
+## Notes-frFR: Monstres de la zone, loots, taux de drop, dépeçage, désenchantement et meilleur marché pour vendre vos objets.
+## Author: Ewingax
+## Version: @project-version@
+# X-Curse-Project-ID: REMPLACER_PAR_L_ID_DU_PROJET
+## IconTexture: Interface\AddOns\Balgourde\Media\Icon
+## SavedVariables: BalgourdeDB, BalgourgeDB
+## AddonCompartmentFunc: Balgourde_OnCompartmentClick
+## AddonCompartmentFuncOnEnter: Balgourde_OnCompartmentEnter
+## AddonCompartmentFuncOnLeave: Balgourde_OnCompartmentLeave
+
+Locale.lua
+Data\Seed.lua
+Core.lua
+Auction.lua
+Disenchant.lua
+Posting.lua
+Skinning.lua
+Recorder.lua
+Sync.lua
+UI.lua
+TargetCard.lua
+Options.lua
+Diag.lua
+Minimap.lua
